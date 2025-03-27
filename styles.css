@@ -46,8 +46,9 @@ section {
     position: absolute;
     right: 0;
     top: 18rem;
-    width: 70rem;
+    width: 40rem;
     height: auto;
+    right: 100px;
 }
 
 
